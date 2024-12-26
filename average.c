@@ -16,9 +16,7 @@ int main()
         sum = sum + a[i];
     }
 
-    average = sum / 10.0;
-
-    printf(" average = %f ", average);
+    printf(" average = %f ",  sum / 10.0);
 
     return 0;
 }

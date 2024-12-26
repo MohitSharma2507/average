@@ -5,7 +5,7 @@ int main()
     int size=5,a[size], sum = 0;
     float average;
 
-    printf("ENTER NUMBERS\n");
+    printf("ENTER NUMBER\n");
     for (int i = 0; i < size; i++)
     {
         scanf("%d", &a[i]);
